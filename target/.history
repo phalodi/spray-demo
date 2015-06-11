@@ -1,0 +1,25 @@
+compile
+run
+exit
+test
+reload
+sbt clean
+clean
+compile
+eclipse
+run
+compile
+run
+reload
+run
+test
+compile
+reload
+test
+reload
+compile
+test
+use knolxtest
+test
+~test
+test
